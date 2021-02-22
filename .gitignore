@@ -1,5 +1,8 @@
 # Created by .ignore support plugin (hsz.mobi)
 
+#User-specific stuff:
+.idea/vcs.xml
+
 # pyenv
 .python-version
 
