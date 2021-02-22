@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+# pyenv
+.python-version
+
+# Gradle:
+.idea/gradle.xml
+.idea/libraries
